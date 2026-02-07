@@ -1,7 +1,7 @@
 # UniTrack
 Official implementation of UniTrack (ICMR 2026).
 
-![UniTrack Architecture](assets/framework.png)
+![UniTrack Architecture](assets/post.png.png)
 
 <p align="center">
   <img src="assets/post.png" width="600" />
