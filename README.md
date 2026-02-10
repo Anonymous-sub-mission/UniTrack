@@ -9,15 +9,16 @@
   <img src="assets/post.png" width="500" />
 </p>
 
-<!-- <p align="center">
-  <b>📎</b> <a href="assets/Supplementary/Supplementary Material.pdf"><b>Supplementary Material</b></a>
-</p>  -->
+
 <p align="center">
   <b>📄 Supplementary Material:</b>
   <a href="assets/Supplementary/Supplementary Material.pdf"><b>Download PDF</b></a>
 </p>
 
 
+<h2>UniTrack Framework</h2>
+<img src="assets/imgs/Figure3.jpg" width="900" />
+<hr/>
 
 <h2>Visualization</h2>
 <div align="center">
