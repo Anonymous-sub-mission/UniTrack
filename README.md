@@ -53,7 +53,6 @@
 
 
 ## 📌 Overview
----
 This project provides Python scripts for visualization demos, including:
 
 - ✅ runnable/testable code
@@ -61,7 +60,7 @@ This project provides Python scripts for visualization demos, including:
 - ❗ Note: training and the complete inference pipeline are not released during the anonymous submission stage.
 
 ## 🚀 Quick Start
----
+
 
 
 
