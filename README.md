@@ -16,9 +16,13 @@
 </p>
 
 
-<h2 align="center">UniTrack Framework</h2>
-<img src="assets/imgs/Figure3.jpg" width="900" />
+<h2>UniTrack Framework</h2>
+  <p align="center">
+    <img src="assets/imgs/Figure3.jpg" width="900" />
+  </p>
 <hr/>
+
+
 
 <h2>Visualization</h2>
 <div align="center">
