@@ -20,7 +20,6 @@
   <p align="center">
     <img src="assets/imgs/Figure3.jpg" width="900" />
   </p>
-<hr/>
 
 
 
@@ -49,7 +48,6 @@
   <img src="assets/SQ/Coll3.gif"   width="200" />
   <img src="assets/SQ/Coll4.gif"   width="200" />
 </div>
-<hr/>
 
 
 
