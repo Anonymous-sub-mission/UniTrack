@@ -1,6 +1,9 @@
 # UniTrack
-Official implementation of UniTrack (ICMR 2026).
 
+<h1 align="center">
+  UniTrack: A Unified Framework for Lightweight and Robust <br/>
+  Fast-Moving Tiny-Ball Tracking
+</h1>
 
 
 <p align="center">
