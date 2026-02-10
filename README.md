@@ -50,15 +50,18 @@
 </div>
 
 
-## 📌 概述
-本项目提供用于展示可视化的Python脚本，包括：
-- ✅ 可进行测试的代码
-- ✅ 权重
-- ❗ 说明：训练与完整推理代码在匿名提交阶段未公开
-
-## 🚀 快速开始
 
 
+## 📌 Overview
+---
+This project provides Python scripts for visualization demos, including:
+
+- ✅ runnable/testable code
+- ✅ pretrained weights
+- ❗ Note: training and the complete inference pipeline are not released during the anonymous submission stage.
+
+## 🚀 Quick Start
+---
 
 
 
