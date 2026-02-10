@@ -63,7 +63,7 @@ This project provides Python scripts for visualization demos, including:
 
 - ✅ runnable/testable code
 - ✅ pretrained weights
-- ❗ Note: - ❗ Note: training and the complete inference pipeline are not released during the anonymous submission stage. The demo code provided here is for reference only and may differ from the implementation in the paper; the full official code will be released after the paper is accepted.
+- ❗ Note: training and the complete inference pipeline are not released during the anonymous submission stage. The demo code provided here is for reference only and may differ from the implementation in the paper; the full official code will be released after the paper is accepted.
 
 
 ## 🚀 Quick Start
