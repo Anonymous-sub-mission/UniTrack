@@ -16,7 +16,7 @@
 </p>
 
 
-<h2>UniTrack Framework</h2>
+<h2 align="center">UniTrack Framework</h2>
 <img src="assets/imgs/Figure3.jpg" width="900" />
 <hr/>
 
