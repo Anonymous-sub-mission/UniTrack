@@ -48,6 +48,12 @@
   <img src="assets/SQ/Coll3.gif"   width="200" />
   <img src="assets/SQ/Coll4.gif"   width="200" />
 </div>
+<div align="center">
+  <img src="assets/Heatmaps/2_18_11.gif"  width="200" />
+  <img src="assets/Heatmaps/010.gif"      width="200" />
+  <img src="assets/Heatmaps/Clip9.gif"    width="200" />
+  <img src="assets/Heatmaps/Clip22.gif"   width="200" />
+</div>
 
 
 
