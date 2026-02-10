@@ -19,6 +19,8 @@
 
 
 
+<h2 align="center">Visualization</h2>
+<hr/>
 <div align="center">
   <img src="assets/BA/1_07_06.gif"  width="200" />
   <img src="assets/BA/2_08_12.gif"  width="200" />
