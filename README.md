@@ -9,9 +9,14 @@
   <img src="assets/post.png" width="500" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <b>📎</b> <a href="assets/Supplementary/Supplementary Material.pdf"><b>Supplementary Material</b></a>
-</p> 
+</p>  -->
+<p align="center">
+  <b>📄 Supplementary Material:</b>
+  <a href="assets/Supplementary/Supplementary Material.pdf"><b>Download PDF</b></a>
+</p>
+
 
 
 <div align="center">
