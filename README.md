@@ -68,14 +68,14 @@ This project provides Python scripts for visualization demos, including:
 
 ## 🚀 Quick Start
 ```bash
-python demo.py
-  --tracknet_file, /home/UniTrack-main/models/TrackNetBeta.pt \
+python demo.py \
+  --tracknet_file models/TrackNetBeta.pt \
   --dataset tennis_game_level_split \
-  ----save_dir /home/.../UniTrack-main/prediction \
+  --save_dir ./prediction \
   --learning_rate 1.0 \
   --device cuda:0 \
   --tolerance 4
-
+```
 
 
 
