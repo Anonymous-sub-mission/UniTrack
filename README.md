@@ -77,6 +77,11 @@ python demo.py \
   --tolerance 4
 ```
 
+## 🛠️ Dependencies
+Please install following essential dependencies (see requirements.txt):
+```bash
+pip install -r requirements.txt
+```
 
 
 
