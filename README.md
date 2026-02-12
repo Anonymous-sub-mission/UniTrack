@@ -99,7 +99,6 @@ python demo.py \
   --tracknet_file models/TrackNetBeta.pt \
   --dataset tennis_game_level_split \
   --save_dir ./prediction \
-  --learning_rate 1.0 \
   --device cuda:0 \
   --tolerance 4
 ```
