@@ -19,7 +19,7 @@
 
 <h2>UniTrack Framework</h2>
   <p align="center">
-    <img src="assets/imgs/Figure3.jpg" width="900" />
+    <img src="assets/Figure3.jpg" width="900" />
   </p>
 
 
