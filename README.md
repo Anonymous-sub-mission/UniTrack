@@ -74,19 +74,19 @@
   <img src="assets/overlay/stage4-166.png"  width="200" />
   <img src="assets/overlay/stage3-166.png"  width="200" />
   <img src="assets/overlay/stage2-166.png"  width="200" />
-  <img src="assets/overlay/stage1-166.png" width="200" />
+  <img src="assets/overlay/stage1-166.png"  width="200" />
 </div>
 <div align="center">
-  <img src="assets/overlay/stage4-167.png" width="200" />
-  <img src="assets/overlay/stage3-167.png" width="200" />
-  <img src="assets/overlay/stage2-167.png" width="200" />
-  <img src="assets/overlay/stage1-167.png" width="200" />
+  <img src="assets/overlay/stage4-167.png"  width="200" />
+  <img src="assets/overlay/stage3-167.png"  width="200" />
+  <img src="assets/overlay/stage2-167.png"  width="200" />
+  <img src="assets/overlay/stage1-167.png"  width="200" />
 </div>
 <div align="center">
-  <img src="assets/overlay/stage4-168.png"       width="200" />
-  <img src="assets/overlay/stage3-168.png"       width="200" />
-  <img src="assets/overlay/stage2-168.png"     width="200" />
-  <img src="assets/overlay/stage1-168.png" width="200" />
+  <img src="assets/overlay/stage4-168.png"  width="200" />
+  <img src="assets/overlay/stage3-168.png"  width="200" />
+  <img src="assets/overlay/stage2-168.png"  width="200" />
+  <img src="assets/overlay/stage1-168.png"  width="200" />
 </div>
 <div align="center">
   <img src="assets/overlay/stage4-168.png"   width="200" />
