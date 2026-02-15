@@ -59,6 +59,18 @@
 
 <h2>Heatmap Overlays</h2>
 <div align="center">
+  <img src="assets/overlay/match3-1.gif"  width="200" />
+  <img src="assets/overlay/match3-2.gif"  width="200" />
+  <img src="assets/overlay/match3-3.gif"  width="200" />
+  <img src="assets/overlay/match3-4.gif"  width="200" />
+</div>
+<div align="center">
+  <img src="assets/overlay/match22.gif"   width="200" />
+  <img src="assets/overlay/match23.gif"   width="200" />
+  <img src="assets/overlay/match24.gif"   width="200" />
+  <img src="assets/overlay/match25.gif"   width="200" />
+</div>
+<div align="center">
   <img src="assets/overlay/stage4-166.png"  width="200" />
   <img src="assets/overlay/stage3-166.png"  width="200" />
   <img src="assets/overlay/stage2-166.png"  width="200" />
